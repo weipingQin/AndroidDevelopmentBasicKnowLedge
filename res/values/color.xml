@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="viewpager_titlebar"			>#8A0C0B</color>
+    <color name="viewpager_text_grey"			>#D4B0AD</color>
+    <color name="viewpager_center"				>#fbefd0</color>
+</resources>

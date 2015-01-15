@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string-array name="booklist">
+        <item>thinking in java</item>
+        <item>Android企业级高级开发</item>
+        <item>Android应用高级开发</item>
+        <item>Android开发远程实录</item>
+        <item>Android游戏开发大全</item>
+    </string-array>
+
+</resources>

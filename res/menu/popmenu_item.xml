@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/sun" android:title="@string/popmenu_sun"></item>
+    <item android:id="@+id/wind" android:title="@string/popmenu_wind"></item>
+    <item android:id="@+id/rain" android:title="@string/popmenu_rain"></item>
+    <item android:id="@+id/snow" android:title="@string/popmenu_snow"></item>
+    <item android:id="@+id/cload" android:title="@string/popmenu_cload"></item>
+</menu>

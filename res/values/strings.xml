@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">AndroidBasicKnowLedge</string>
+    <string name="popmenu_weather">请选择天气</string>
+    <string name="popmenu_sun">太阳</string>
+    <string name="popmenu_cload">多云</string>
+    <string name="popmenu_rain">下雨</string>
+    <string name="popmenu_snow">下雪</string>
+    <string name="popmenu_wind">风</string>
+    
+    <string name="viewpager_title_textview">首页</string>
+    <string name="dating"		>大厅</string>
+    <string name="gonggao"		>公告</string>
+    <string name="wanju"		>玩具</string>
+    <string name="yonghu"		>用户</string>
+	<string name="more"			>更多...</string>		
+</resources>
